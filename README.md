@@ -137,4 +137,4 @@ For each feature we create a branch. After we are done, we do a pull request on 
 
 - Pull Request Example 
 
-![Diagram Class](docs/pr.png)
+![Diagram Class](docs/pr.png) 
